@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laveenatiwari
-- 👀 I’m interested in software testing
+- 👀 I’m am a Software tester
 - 🌱 I’m currently learning Advanced Java
 - 💞️ I’m looking to collaborate on projects based on Selenium Java and BDD
 - 📫 How to reach me ...
